@@ -195,8 +195,8 @@ The project can be enhanced with:
 | Project Name | TRIPTRACE |
 | Course | U18IT504 – Web Technologies |
 | Project Type | Course Project |
-| Student | A. Shree Chandana |
-| Roll Number | B23IT066 |
+| Student | K.Bhavana |
+| Roll Number | B23IT065 |
 | Department | Information Technology |
 | Institution | Kakatiya Institute of Technology & Science, Warangal |
 | Academic Year | 2025–2026 |
@@ -206,7 +206,7 @@ The project can be enhanced with:
 
 ## 👩‍💻 Developed By
 
-**A. Shree Chandana**  
+**K.Bhavana**  
 B.Tech – Information Technology  
 Kakatiya Institute of Technology & Science, Warangal
 
